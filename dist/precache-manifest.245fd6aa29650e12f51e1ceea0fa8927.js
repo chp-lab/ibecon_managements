@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd9d923963da82e39192",
-    "url": "/css/app.962ef3d5.css"
+    "revision": "86d8b5cabb49b2e0b5d2",
+    "url": "/css/app.1ba93b48.css"
   },
   {
     "revision": "5875cd28799bee4a0467",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/prompt-regular-webfont.11d1e0e4.svg"
   },
   {
-    "revision": "7826310aa84be2ca8fe2c2abee2d8692",
+    "revision": "2fa8fa1dcefa7881d11a40ee860651b3",
     "url": "/index.html"
   },
   {
-    "revision": "cd9d923963da82e39192",
-    "url": "/js/app.a9501f3e.js"
+    "revision": "86d8b5cabb49b2e0b5d2",
+    "url": "/js/app.cc8044a7.js"
   },
   {
     "revision": "5875cd28799bee4a0467",
